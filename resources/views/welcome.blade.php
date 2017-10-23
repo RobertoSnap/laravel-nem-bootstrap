@@ -83,11 +83,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">API Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://bob.nem.ninja/docs">API Docs</a>
+                    <a href="https://nem.io/">NEM webpage</a>
+                    <a href="https://github.com/evias/php-nem-laravel">PHP API wrapper</a>
                 </div>
 
                 @php
